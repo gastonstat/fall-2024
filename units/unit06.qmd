@@ -1,0 +1,60 @@
+---
+title: "6) Using Color"
+---
+
+
+### 📋 About
+
+In addition to color models (and their spaces), another important aspect of 
+color has to do with its actual use when making graphics.
+
+Recall that making graphics, conceptually speaking, is basically mapping data 
+to geometric objects and their visual properties. One important property is color. 
+Consequently we need to spend time talking about encoding data with color. 
+Depending on the type of variables we are wroking with, and their associated 
+measurement scales, colors can be used to encode such values. Therefore, we 
+need to discuss which kinds of colors are more appropriate for encoding which 
+types of variables.
+
+
+<br>
+
+
+### 🎯 Objectives
+
+At the end of this unit you will be able to:
+
+- Understand the default behavior of `ggplot` when a variable is mapped to 
+a color attribute.
+
+- Indicate what color scale `ggplot` uses when you map a logical variable.
+
+- Indicate what color scale `ggplot` uses when you map an integer variable.
+
+- Indicate what color scale `ggplot` uses when you map a factor variable.
+
+- Indicate what color scale `ggplot` uses when you map a double variable.
+
+
+<br>
+
+
+### 🌠 Slides
+
+<a href="https://docs.google.com/presentation/d/1HMdqqhhmmyd8OYQvEHxIE2eBKzoV-1eeL7We-J7NeF8/edit?usp=sharing" target="_blank">Color Pickers, Color Wheel, and Color Schemes</a> <small>(google slides)</small>
+
+
+<br>
+
+
+### 💻 Code
+
+TBA
+
+
+<br>
+
+
+### 📖 Assignment
+
+TBA

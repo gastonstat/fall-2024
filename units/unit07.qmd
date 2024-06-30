@@ -1,0 +1,49 @@
+---
+title: "7) Design I"
+---
+
+
+### 📖 About
+
+What things should you pay attention when looking at a graphic?
+
+How can you make a graphic less distracting from the data being represented?
+
+In this unit we talk about the so-called __Data-Ink ratio__ (proposed by Edward 
+Tufte) which is the proportion of ink (or pixels) that is used to present actual 
+data compared to the total amount of ink (or pixels) used in the entire display.
+
+
+<br>
+
+
+### 🎯 Objectives
+
+At the end of this unit you will be able to:
+
+- Explain the concept of Data-to-Ink ratio
+- Be able to suggest modifications for increasing the data-ink ratio in a graphic
+
+
+<br>
+
+
+### 🌠 Slides
+
+<a href="https://docs.google.com/presentation/d/14kjCDK5e2dEYO7HT4eJy7f6CNXXlY43a3DMLopcqdzE/edit?usp=sharing" target="_blank">Data-Ink Ratio</a> <small>(google slides)</small>
+
+
+<br>
+
+
+### 💻 Code
+
+TBA
+
+
+<br>
+
+
+### 📖 Assignment
+
+TBA

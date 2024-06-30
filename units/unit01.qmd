@@ -1,0 +1,60 @@
+---
+title: "1) Surrounded by Graphics"
+---
+
+
+### 📋 About
+
+In this unit, we review an assortment of data visualizations that we may
+get exposed to---almost---on a daily basis.
+
+We'll describe the type of graphics, introduce some basic vocabulary, talk
+about the types of variables visually encoded. Also, you'll have the opportunity
+to look for a handful of data visualizations about your data.
+
+
+<br>
+
+
+### 🎯 Objectives
+
+At the end of this unit you will be able to:
+
+- Familiarize yourself with the vocabulary of graphical elements (e.g. geoms, labels, 
+annotations, grid lines, axes, tick marks, facets, etc).
+
+- Think about the structure of a hypothetical data table behind a given graphic.
+
+- Identify the type of variable(s) visually encoded in a graphic (e.g. quantitative,
+qualitative).
+
+
+<br>
+
+
+### 🌠 Slides
+
+<a href="https://docs.google.com/presentation/d/1IWKgIVf08FUUIvf48rLOtullx6mjCtZe4Kd_rO0rItc/edit?usp=sharing" target="_blank">Basic examples, graphics vocabulary</a> <small>(google slides)</small>
+
+
+<br>
+
+
+### 💻 Code
+
+Getting started with `"ggplot2"`
+
+- qmd notebook file
+- html file
+
+
+<br>
+
+
+### 📖 Assignment
+
+[HW 1](../hws/hw01/hw01.html)
+
+__Reading__: _The Age That Women Have Babies: How a Gap Divides America_ by Quoctrung Bui and Claire Cain Miller (Aug-4, 2018, New York Times)
+
+<a href="https://www.nytimes.com/interactive/2018/08/04/upshot/up-birth-age-gap.html" target="_blank">https://www.nytimes.com/interactive/2018/08/04/upshot/up-birth-age-gap.html</a>

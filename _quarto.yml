@@ -1,0 +1,45 @@
+project:
+  type: website
+
+website:
+  favicon: "images/favicon.ico"
+  title: "dataviz-test-2024"
+  page-footer:
+    center:
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: license.qmd
+  sidebar:
+    title: "Principles of Dataviz"
+    logo: "images/stat198-logo.png"
+    style: "floating"
+    contents: 
+      - text: Home
+        href: index.qmd
+      - href: syllabus.qmd
+      - href: about.qmd
+      - href: cheatsheets.qmd
+      - section: "Units"
+        contents:
+          - units/unit00.qmd
+          - units/unit01.qmd
+          - units/unit02.qmd
+          - units/unit03.qmd
+          - units/unit04.qmd
+          - units/unit05.qmd
+          - units/unit06.qmd
+          - units/unit07.qmd
+          - units/unit08.qmd
+          - units/unit09.qmd
+          - units/unit10.qmd
+          - units/unit11.qmd
+          - units/unit12.qmd
+
+format:
+  html:
+    theme: default
+    css: styles.css
+    toc: true
+
+

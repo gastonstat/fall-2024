@@ -1,0 +1,67 @@
+---
+title: "4) Specifying Colors I"
+---
+
+
+### 📖 About
+
+A big aspect of any visual display has to do with color, which involves two 
+major aspects: 
+
+1) Specification of colors, and 
+
+2) Use of colors (encoding data with color).
+
+In this unit and the next one, we'll talk about how can we specify---in a 
+computational sense---a certain color. In other words: __How do we tell a 
+computer program what kind of color we want to use?__ The answer to this 
+question is given by Color Models, and their associated color spaces 
+(or geometric volumes).
+
+The topic of this unit is the so-called RGB (Red-Green-Blue) Color Model. Also, 
+we describe the geometric space of such color model, as well as the use of 
+hexadecimal notation for expressing RGB values.
+
+
+<br>
+
+
+### 🎯 Objectives
+
+At the end of this unit you will be able to:
+
+- Explain the Trichromatic theory of color vision.
+
+- Explain how to specify colors under the RGB color model.
+
+- Describe the geometric space associated to the RGB model.
+
+- Indicate how to use hexadecimal notation to express RGB values.
+
+- Describe what the alpha value (or alpha channel) is used for.
+
+
+<br>
+
+
+### 🌠 Slides
+
+<a href="https://docs.google.com/presentation/d/1yzU4HQzR0Sh8f2PQQ7oKFN5X93wt0RyqniVNLpNbMpQ/edit?usp=sharing" target="_blank">Trichromatic Theory</a> <small>(google slides)</small>
+
+<a href="https://docs.google.com/presentation/d/1q_Rxrn2ldFmeBiZUZ-_YTS3vqZw1g0RndgG348-UniU/edit?usp=sharing" target="_blank">RGB Color Model</a> <small>(google slides)</small>
+
+
+<br>
+
+
+### 💻 Code
+
+TBA
+
+
+<br>
+
+
+### 📖 Assignment
+
+TBA

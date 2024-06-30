@@ -1,0 +1,61 @@
+---
+title: "About"
+subtitle: "STAT 198, Fall 2024: Principles of Data Visualization"
+---
+
+This is the website for the Fall-2024 DeCal course 
+__Principles of Data Visualization with R__.
+
+
+::: {.callout-warning icon=false}
+## Course Info
+
+__Instructor__: Rory Powell, `rory_powell@berkeley.edu`
+
+__Faculty Sponsor__: <a href="https://www.gastonsanchez.com" target="_blank">Gaston Sanchez</a>
+
+__Class Time__: TBA
+
+__Code #__: TBA
+
+__Units__: 2
+
+__Dates__: Tentative Sep-02 / Dec-06
+:::
+
+
+
+## Motivation
+
+Data visualization is an ever-present element for anyone who works with data, 
+whether in business, science, education, politics, or any other field. 
+
+As data visualization expert Donna Wong says: 
+
+> "The ability to create effective charts and graphs has become almost as indispensable as good writing."
+
+The good news is that, nowadays, making graphics, plots, diagrams, charts, etc
+has become incredibly easy. However, data visualization is not just about 
+knowing how to use tools or software to produce a graphic. Quoting Donna Wong
+again: 
+
+> "With computer technology, anyone can create graphics, but few of us know how to do it well."
+
+Data visualization is also about having a critical mindset, and acquiring the 
+training not just to produce effective graphics, but also to learn how to assess 
+a visual display of data.
+
+To us, data visualization entails both the __production__ as well as the 
+__consumption__ of graphics. Those of us who deal with data, sooner or later 
+have to __produce__ charts and graphs, and we have to be prepared to do this 
+task effectively. Likewise, some of us will have to create graphics on a constant 
+basis, some periodically, and some very rarely. However, all of us will be
+__consuming__ visual displays of data. Therefore, we also need to be able to 
+critically assess a graphic, and also know how to do it well. 
+
+In summary, our aim is to provide students the fundamental principles to:
+
+1) Produce effective graphics, and
+
+2) Assess the effectiveness of a visual display of data.
+

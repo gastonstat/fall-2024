@@ -1,0 +1,16 @@
+---
+title: "Cheat Sheets"
+subtitle: "STAT 198, Fall 2024: Principles of Data Visualization"
+---
+
+Cheat sheets are your friends, use them at all times!
+
+- <a href="cheatsheets/rstudio-IDE-cheatsheet.pdf" target="_blank">rstudio-IDE-cheatsheet.pdf</a>
+
+- <a href="cheatsheets/base-r-cheatsheet.pdf" target="_blank">base-r-cheatsheet.pdf</a>
+
+- <a href="cheatsheets/dplyr-cheatsheet.pdf" target="_blank">dplyr-cheatsheet.pdf</a>
+
+- <a href="cheatsheets/ggplot2-cheatsheet-2.1.pdf" target="_blank">ggplot2-cheatsheet-2.1.pdf</a>
+
+- <a href="cheatsheets/data-import-cheatsheet.pdf" target="_blank">data-import-cheatsheet.pdf</a>

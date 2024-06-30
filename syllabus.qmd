@@ -1,0 +1,191 @@
+---
+title: "Syllabus"
+subtitle: "STAT 198, Fall 2024: Principles of Data Visualization"
+---
+
+
+## 📊 Description
+
+This is an introductory course to the principles of data visualization and their
+applications with R. Topics include: 
+
+- Role of graphics in a data analysis project;
+
+- Grammar of graphics and its implementation with ggplot2;
+
+- Use of analytical patterns/tasks to choose the right kind of graphic;
+
+- Understand common color models and their relationship to human vision;
+
+- Use of color with tools such as the color wheel, color schemes, color pickers, and color palettes;
+
+- Designing principles (e.g. data-to-ink ratio, good practices, visual perception);
+
+- Assessment of graphics (what makes a graphic good); 
+
+- Animated and interactive graphics.
+
+
+
+## 🎯 Learning Outcomes
+
+At the end of the course students will be able to:
+
+- Explain the importance/need of visualizing data.
+
+- Describe the framework of the grammar of graphics for creating plots.
+
+- Use functions from ggplot2 and other packages for making graphics in R.
+
+- Specify colors through the use of a color model, and its hexadecimal syntax.
+
+- Demonstrate an adequate encoding of data with color.
+
+- Recognize color schemes when inspecting a graphic.
+
+- List five or more of the analytical patterns/tasks (proposed by Stephen Few) for choosing the right graphic.
+
+- Apply and/or suggest changes that increase the data-to-ink ratio of a graphic.
+
+- Assess the effectiveness of a graphic intended for reporting/communicating purposes.
+
+- Produce animated charts as well as graphics with interactive elements.
+
+
+
+## ℹ️ Prerequisites
+
+Because our main computational tool is R (and RStudio), it is desirable to 
+have taken a course in which you got an introduction to R (e.g. STAT 20, 33A, 
+33B, 133; PB HLTH 142). It is also nice to have some previous experience 
+analyzing data. Being concurrently enrolled in these classes is also acceptable.
+
+
+
+## 🎓 Methods of Instruction
+
+We will be using a combination of materials such as slides, tutorials, sample 
+scripts, reading assignments, live demos, and chalk-and-talk. 
+In-class attendance is mandatory.
+The main computational tool will be the computing and programming environment 
+<a href="https://www.r-project.org/" target="_blank"><strong>R</strong></a>. 
+The main workbench will be the 
+<a href="https://posit.co/download/rstudio-desktop/" target="_blank">IDE RStudio</a>.
+
+
+
+## 📚 Textbooks
+
+The following books are not required, but will be referenced throughout the 
+course for slides, assignments, and more. They can all be found online:
+
+- _Data Visualization_ by K. Healy
+- _Geocomputation with R_ by Lovelace, J. Nowosad, and J. Muenchow.
+- _Now You See It: Simple Visualization Techniques for Quantitative Analysis_ by S. Few
+
+
+
+## 📁 Assignments - Homeworks
+
+Homework assignments will give the students a platform to demonstrate and 
+reinforce concepts covered during lectures.
+
+HWs will generally be assigned every week.
+
+You will submit your homework to Gradescope: typically your source file 
+(qmd file), and the produced output (html doc).
+
+You must write your own answers (using your own words, and your coding style---see 
+Academic Honesty policy below). 
+
+
+
+## 📖 Readings
+
+There will also be weekly readings, mostly consisting of articles from 
+_The New York Times_.
+
+
+
+## 📆 Attendance
+
+Attendance will be taken daily.
+In case of emergency, contact instructors for excused absences. You will still 
+be expected to complete the class work from that date and email the instructors 
+your work.
+
+
+
+## 🏫 Learning Cooperatively
+
+With the obvious exception of quizzes, we encourage you to discuss all of the 
+course activities with your friends and classmates as you are working on them. 
+You will definitely learn more in this class if you work with others than if 
+you do not. Ask questions, answer questions, and share ideas liberally.
+
+
+
+## ☝️ Academic Honesty
+
+Cooperation has a limit, however. You should not share your code or answers 
+directly with other students. Doing so doesn't help them; it just sets them up 
+for trouble. Feel free to discuss approaches to the problems with others, but 
+you must write your own solutions. Please complete your own work and keep it to 
+yourself. If you suspect other people may be plagiarizing you, let us know ASAP. 
+For more information please read the <a href="http://teaching.berkeley.edu/sites/default/files/general/hc_guide_for_syllabi.pdf" target="blank">Honor Code Guide for Syllabi</a>.
+
+We expect you to do your own work and to uphold the standards of intellectual 
+integrity. Collaborating on homework is fine and I encourage you to work 
+together---but copying is not, nor is having somebody else submit assignments 
+for you. Cheating will not be tolerated. Anyone found cheating will receive an 
+NP grade and will be reported to the <a href="http://sa.berkeley.edu/conduct" target="_blank">Center for the Student Conduct</a>). 
+
+If you are having trouble with an assignment or studying for an exam, or if you 
+are uncertain about permissible and impermissible conduct or collaboration, 
+please come see me with your questions. Rather than copying someone else's work, 
+ask for help. You are not alone in this course! If you invest the time to learn 
+the material and complete the projects, you won't need to copy any answers.
+
+
+
+## 🚸 Special Accommodations
+
+Students needing accommodations for any physical, psychological, or learning 
+disability, should speak with me during the first two weeks of the semester, 
+either after or during class and see <http://dsp.berkeley.edu> to 
+learn about Berkeley's policy. 
+
+If you are a DSP student, please contact me as soon as possible so that we can 
+work out acceptable accommodations.
+
+For relevant DSP accommodations that provide occasional extensions on assignments, 
+we may provide a two-day extension as long as you contact us before the assignment 
+is due. More details about these considerations may be discussed with the DSP staff.
+
+If you are an athlete or Cal band member, please check your calendar. Do not 
+take the class if you are not available to attend 90% of classes.
+
+
+
+## 🌻 Safe and Inclusive Environment
+
+Whenever a faculty member, staff member, post-doc, or instructor is responsible for 
+the supervision of a student, a personal relationship between them of a romantic 
+or sexual nature, even if consensual, is against university policy. Any such 
+relationship jeopardizes the integrity of the educational process.
+
+Although faculty and staff can act as excellent resources for students, you 
+should be aware that they are required to report any violations of this campus 
+policy. If you wish to have a confidential discussion on matters related to 
+this policy, you may contact the Confidential Care Advocates on campus for 
+support related to counseling or sensitive issues. Appointments can be made by 
+calling (510) 642-1988.
+
+The classroom should be a safe and inclusive environment for everyone. The 
+Office for the Prevention of Harassment and Discrimination (OPHD) is responsible 
+for ensuring the University provides an environment for faculty, staff and 
+students that is free from discrimination and harassment on the basis of 
+categories including race, color, national origin, age, sex, gender, gender 
+identity, and sexual orientation. Questions or concerns? Call (510) 643-7985, 
+email `ask_ophd@berkeley.edu`, or go to 
+<a href="http://survivorsupport.berkeley.edu" target="_blank">http://survivorsupport.berkeley.edu</a>.

@@ -1,0 +1,45 @@
+---
+title: "Principles of Data Visualization"
+subtitle: "STAT 198, Fall 2024"
+---
+
+This is the website for the Fall-2024 
+<a href="https://decal.studentorg.berkeley.edu/about/decal-program" target="_blank">DeCal</a> course 
+__Principles of Data Visualization with R__ at 
+<a href="https://www.berkeley.edu/" target="_blank">UC Berkeley</a>, 
+facilitated by Rory Powell.
+
+
+::: {.callout-note icon=false}
+## Announcements
+
+Welcome to __STAT 198 Principles of Data Visualization with R__!
+
+Our first meeting will be on Wed Sep-4th, @5pm in room TBA.
+
+No HW assigned during the first week of class.
+:::
+
+
+
+## Calendar
+
+Tentative calendar subject to change.
+
+| Week    | Content                                        | HW     |
+|---------|------------------------------------------------|--------|
+|  Sep-04 | [0) Welcome](units/unit01.html)                | _none_ |
+|  Sep-11 | [1) Surrounded by Graphics](units/unit02.html) | HW 1   |
+|  Sep-18 | [2) Grammar of Graphics I](units/unit03.html)  | HW 2   |
+|  Sep-25 | [3) Grammar of Graphics II](units/unit03.html) | HW 3   |
+|  Oct-02 | [4) Specifying Colors I](units/unit04.html)    | HW 4   |
+|  Oct-09 | [5) Specifying Colors II](units/unit05.html)   | HW 5   |
+|  Oct-16 | [6) Using Color](units/unit06.html)            | HW 6   |
+|  Oct-23 | [7) Design I](units/unit07.html)               | HW 7   |
+|  Oct-30 | [8) Design II](units/unit08.html)              | HW 8   |
+|  Nov-06 | [9) TBA](units/unit09.html)                    | HW 9   |
+|  Nov-13 | [10) TBA](units/unit10.html)                   | Final Project |
+|  Nov-20 | [11) TBA](units/unit11.html)                   |        |
+|  Nov-27 | _Thanksgiving_                                 |        |
+|  Dec-04 | [12) TBA](units/unit12.html)                   |        |
+

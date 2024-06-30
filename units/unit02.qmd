@@ -1,0 +1,54 @@
+---
+title: "2) Grammar of Graphics I"
+---
+
+
+### 📋 About
+
+In this unit you'll get introduced to the `"ggplot2"` system for making graphics.
+
+
+<br>
+
+
+### 🎯 Objectives
+
+At the end of this unit you will be able to:
+
+- Produce simple exploratory graphics with functions from `"ggplot2"`.
+
+- Describe the notion of **"layers"** and how to use them for making a graphic 
+with `"ggplot2"`.
+
+- Explain the difference between __mappings__ and __settings__.
+
+- Describe the purpose of the aesthetic mapping function `aes()`.
+
+
+<br>
+
+
+### 🌠 Slides
+
+<a href="https://docs.google.com/presentation/d/1r8J3nngdsAtqbYsQkACcpGzwyaBTuuJg7em3whlo_Yc/edit?usp=sharing" target="_blank">A Grammar of Graphics</a> <small>(google slides)</small>
+
+
+<br>
+
+
+### 💻 Code
+
+Basic graphics with `"ggplot2"`
+
+- qmd notebook file
+- html file
+
+
+<br>
+
+
+### 📖 Assignment
+
+__Reading__: _The Age That Women Have Babies: How a Gap Divides America_ by Quoctrung Bui and Claire Cain Miller (Aug-4, 2018, New York Times)
+
+<a href="https://www.nytimes.com/interactive/2018/08/04/upshot/up-birth-age-gap.html" target="_blank">https://www.nytimes.com/interactive/2018/08/04/upshot/up-birth-age-gap.html</a>

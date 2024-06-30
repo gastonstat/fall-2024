@@ -1,0 +1,37 @@
+---
+title: "0) Welcome"
+---
+
+
+### 📋 About
+
+Welcome to __STAT 198 Principles of Data Visualization with R__. 
+
+We begin with the usual review of the course policies, logistics, overall 
+expectations, topics in a nutshell, etc. 
+
+- Meet your instructor.
+- Review of syllabus.
+- Meet your classmates.
+- Intro survey (google form).
+
+
+<br>
+
+
+### 🌠 Slides
+
+<a href="https://docs.google.com/presentation/d/1zIap5USMtVvuDxXjWDYPYWv1jJAyc-QVmEU5XpVfcs4/edit?usp=sharing" target="_blank">Visualization preamble</a> <small>(google slides)</small>
+
+
+<br>
+
+
+### 📖 Assignment
+
+There is no HW assigned this week. The only thing you need to do is to download 
+and install R & RStudio; and make sure you have access to The New York Times (NYT).
+
+<a href="https://www.nytimes.com" target="_blank">https://www.nytimes.com</a>
+
+__Reading__: None.

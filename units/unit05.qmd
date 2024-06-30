@@ -1,0 +1,72 @@
+---
+title: "5) Specifying Colors II"
+---
+
+
+### 📖 About
+
+Last time we learned about the Trichromatic theory for color vision, and the
+associated RGB color model and its cubic geometric representation. While the
+RGB model has very interesting mathematical properties, it does not provide a
+natural/intuitive way to think about color.
+
+In this unit, we discuss another theory for color vision: the so-called 
+__Color-Opponent__ theory. This alternative framework was originally proposed by 
+Karl Ewald Hering in 1892, based on evidence from color-adaptation experiments
+and the linguistic observation of certain color names.
+
+The opponent-color theory suggests that the way we perceive color is controlled
+by 3 opposing systems (or channels) in our vision:
+
+- Red-Green
+- Blue-Yellow
+- Black-White
+
+Interestingly, the color models associated with the opponent-color theory have 
+a cylindrical geometry instead of the cubic space of RGB.
+
+More important, the main practical tools that emanate from this color theory
+are 1) the famous __color wheel__, and 2) the __color-picker__ devices. 
+
+
+<br>
+
+
+### 🎯 Objectives
+
+At the end of this unit you will be able to:
+
+- Explain the Color-Opponent theory of color vision.
+
+- Describe what color models are typically used in color-picker tools.
+
+- Explain the color wheel.
+
+- Name at least three different color schemes derived from the color wheel, and 
+what characterizes them.
+
+
+<br>
+
+
+### 🌠 Slides
+
+<a href="https://docs.google.com/presentation/d/1RVY141ubZ8QtVf5EE6eBnfwplJKMdJd7K0Zs840aa6g/edit?usp=sharing" target="_blank">Opponent-Color Theory</a> <small>(google slides)</small>
+
+<a href="https://docs.google.com/presentation/d/1TPqZEHxUW43Gw5R22in9cGQ4QTLxFrXH8d0FGh1ilhc/edit?usp=sharing" target="_blank">Cylindric Color Modelx</a> <small>(google slides)</small>
+
+
+<br>
+
+
+### 💻 Code
+
+TBA
+
+
+<br>
+
+
+### 📖 Assignment
+
+TBA

@@ -1,0 +1,44 @@
+---
+title: "8) Design II"
+---
+
+
+### 📋 About
+
+TBD
+
+
+<br>
+
+
+### 🎯 Objectives
+
+At the end of this unit you will be able to:
+
+- Goal 1.
+- Goal 2.
+- Goal 3.
+
+
+<br>
+
+
+### 🌠 Slides
+
+<a href="https://docs.google.com/presentation/d/1JrEp4TnB4M73CHz_1PTQAhlj2rD6lMuBfu7mC1gV9hM/edit?usp=sharing" target="_blank">Analytical Patterns</a> <small>(google slides)</small>
+
+
+<br>
+
+
+### 💻 Code
+
+TBA
+
+
+<br>
+
+
+### 📖 Assignment
+
+TBA
