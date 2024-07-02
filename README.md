@@ -39,7 +39,7 @@ These instructions have been tested under MacOS.
 
    Then commit your changes:
    ```bash
-   git commit -m "Initial checkin for Stat 198."
+   git commit -m "Initial commit for Stat 198."
    ```
 
    If you modify an existing file, you can either do `git add currentfile.md` or include the `-a` flag when you run `git commit` to automatically update files that Git is already keeping track of, e.g., after modifying unit 7 files, `git commit -am "Updated Unit 7"`.
